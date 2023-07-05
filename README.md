@@ -5,6 +5,7 @@ Required libraries:
 -Numpy
 -Pandas
 -matplotlib
+-zipfile
 
 # Product Motivation
 As a physical scientist attempting to reskill himself into the computer science arena, I was curious about what languages, frameworks and and databases should I learn.
