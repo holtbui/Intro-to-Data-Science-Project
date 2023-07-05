@@ -23,4 +23,4 @@ Queestions to be answered:
 There is one iPython notebook to explore the dataset to ansswer the questions above.  The data set is compressed as survey_results_public.zip and is uncompressed and read by the project.ipynb.
 
 # Results
-The results of the Analysis can be found [Here](https://www.google.com](https://medium.com/@holtbui/how-to-start-out-with-the-highest-salary-628f59e73100)https://medium.com/@holtbui/how-to-start-out-with-the-highest-salary-628f59e73100)
+The results of the Analysis can be found [Here](https://www.google.com](https://medium.com/@holtbui/how-to-start-out-with-the-highest-salary-628f59e73100)
