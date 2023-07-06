@@ -30,3 +30,8 @@ There is one iPython notebook to explore the dataset to ansswer the questions ab
 
 # Results
 The results of the Analysis can be found [Here](https://medium.com/@holtbui/how-to-start-out-with-the-highest-salary-628f59e73100)
+
+# Acknowledgments
+Credit for the data soucre and data exploration ideas is due to Stack Overflow and Udacity
+
+Data source and licsensing can be found on [Kaggle](https://www.kaggle.com/datasets/stackoverflow/so-survey-2017)_
